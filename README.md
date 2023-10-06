@@ -26,7 +26,7 @@ This project is a Java-based web application developed using the Spring Boot fra
 
 1. Clone the project repository to your local machine:
    ```
-   git clone https://github.com/yourusername/pathfinding-project.git
+   git clone https://github.com/yourusername/findOptimalPath.git
    ```
 
 2. Open the project in your preferred Java IDE.
